@@ -6,10 +6,10 @@ using namespace std;
 
 void ReadNumbers(float& A, float& B)
 {
-    cout << "Please enter the first number" << endl;
+    cout << "Please enter A" << endl;
     cin >> A;
 
-    cout << "Please enter the second number" << endl;
+    cout << "Please enter B" << endl;
     cin >> B;
 
 }
